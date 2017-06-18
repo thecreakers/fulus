@@ -1,0 +1,2 @@
+# fulus
+Fulus Cryptocurrency
