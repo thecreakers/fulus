@@ -20,7 +20,7 @@ Coins Generated Per Day: 14,400<br>
 Time Between Halvings: 47.95<br>
 Maximum Block Size: 2 MB<br>
 
-Website : http://www.fulus.org/ <br>
-Public pool : http://pool.fulus.org/  | please use port 3032 when mining <br>
+Website : http://www.fulus.org <br>
+Public pool : http://pool.fulus.org  | please use port 3032 when mining <br>
 Android wallet : https://github.com/thecreakers/fulus/tree/master/wallet/android/fulus.apk <br>
 Windows wallet : https://github.com/thecreakers/fulus/tree/master/wallet/windows/fulus.zip <br>
