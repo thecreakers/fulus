@@ -1,5 +1,5 @@
 # fulus
-Fulus Cryptocurrency
+Fulus Cryptocurrency [eXperimental]
 
 Coin Name: Fulus<br>
 Coin Abbreviation: FLS <br>
