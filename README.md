@@ -21,7 +21,7 @@ Time Between Halvings: 47.95<br>
 Maximum Block Size: 2 MB<br>
 
 Official Website : http://www.fulus.org <br>
-Main Public Pool : http://pool.fulus.org  | please use port 3032 when mining <br>
+Main Public Pool : http://pool.fulus.org  | no need to register but please use port 3032 when mining <br>
 Mining Software (CPU Miner) : https://github.com/tpruvot/cpuminer-multi/releases <br>
 Official Blockchain Explorer : http://explorer.fulus.org <br><br>
 Official Android wallet : https://github.com/thecreakers/fulus/tree/master/wallet/android/fulus.apk <br>
