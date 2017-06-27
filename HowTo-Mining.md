@@ -9,7 +9,7 @@ Please follow this format string <br>
 cpuminer-gw64-core2.exe -a X11 -o stratum+tcp://104.251.219.235:3032 -u [your FLS wallet address] -p [your FLS wallet address]
 <br><br>
 Please remove [ ] remark when writing your FLS wallet address<br>
-=========================================================================================
+===============================================================================
 <br><br>
 <b>Advance Mining</b><br><br>
 1st: Download, extract & Run "Fulus Wallet", make sure it sync with "Fulus Network", and then check at the "Receive Coins" tab to see your newly generated Address (this is your Fulus Account!!!) <br>
