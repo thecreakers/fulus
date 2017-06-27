@@ -15,10 +15,10 @@ Advance Mining<br>
 2nd: Download the Miner that suits you, as a basic use the CPU Miner, it can utilize the most basic CPU from single core to multiple core, the more core, the faster it can do hashing calculations.<br>
 3rd: IF you want extra boost in hashing power, download, extract and run the GPU Miner<br>
 4th: Edit the existing batch file or create a new batch file to run a miner. Entry should be: <br> 
-cpuminer.exe -a X11 -o stratum+tcp://104.251.219.235:3032 -u [your FLS wallet address] -p [your FLS wallet address] <br>
+cpuminer.exe -a X11 -o stratum+tcp://104.251.219.235:3032 -u [your FLS wallet address] -p [your FLS wallet address] <br><br>
 
 explanation:<br>
-cpuminer.exe = name depends on your miner executable, see in folder<br>
+cpuminer.exe = name depends on your miner executable, see in folder<br><br>
 
 -a = Mining algorithm, for Fulus we use X11<br>
 -o = URL of mining server, must start with "stratum+tcp", for Fulus Mining we use stratum+tcp://104.251.219.235:3032<br>
