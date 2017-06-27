@@ -1,6 +1,6 @@
 Howto Mining FLS
 <br>
-Basic CPU based mining<br>
+<b>Basic CPU based mining</b><br>
 1. Download CPUMiner from the link at README.<br>
 2. Install this CPUMiner (please temporary disable/stop your AntiVirus)
 <br>
@@ -10,7 +10,7 @@ cpuminer-gw64-core2.exe -a X11 -o stratum+tcp://104.251.219.235:3032 -u [your FL
 <br><br>
 Please remove [ ] remark when writing your FLS wallet address
 <br><br>
-Advance Mining<br>
+<b>Advance Mining</b><br><br>
 1st: Download, extract & Run "Fulus Wallet", make sure it sync with "Fulus Network", and then check at the "Receive Coins" tab to see your newly generated Address (this is your Fulus Account!!!) <br>
 2nd: Download the Miner that suits you, as a basic use the CPU Miner, it can utilize the most basic CPU from single core to multiple core, the more core, the faster it can do hashing calculations.<br>
 3rd: IF you want extra boost in hashing power, download, extract and run the GPU Miner<br>
