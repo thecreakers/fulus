@@ -26,5 +26,5 @@ Official Blockchain Explorer : http://explorer.fulus.org <br><br>
 Mining Software (CPU Miner) : https://github.com/tpruvot/cpuminer-multi/releases <br>
 Mining Software (GPU Miner - nVidia) : https://github.com/tpruvot/ccminer/releases <br>
 Mining Software (GPU Miner - ATI) : https://github.com/nicehash/sgminer/releases <br><br>
-Official Android wallet : https://github.com/thecreakers/fulus/tree/master/wallet/android/fulus.apk <br>
-Official Windows wallet : https://github.com/thecreakers/fulus/tree/master/wallet/windows/fulus.zip <br>
+Official Android wallet : https://github.com/thecreakers/fulus/tree/master/wallet/android/ <br>
+Official Windows wallet : https://github.com/thecreakers/fulus/tree/master/wallet/windows/<br>
