@@ -28,3 +28,10 @@ Mining Software (GPU Miner - nVidia) : https://github.com/tpruvot/ccminer/releas
 Mining Software (GPU Miner - ATI) : https://github.com/nicehash/sgminer/releases <br><br>
 Official Android wallet : https://github.com/thecreakers/fulus/tree/master/wallet/android/ <br>
 Official Windows wallet : https://github.com/thecreakers/fulus/tree/master/wallet/windows/<br>
+
+Donation : FULUS [ FqJ5CN9zF93r4rttxcantgtaFWWR8PLST8 ]
+           BTC [ 1FFPahYGPHNPZWZmJTiK78LKcikfCeBzdu ]
+           ETH [ 0xDcFd48001F59c5481eF517c09DC77A17e6e42Cc7 ]
+           DASH [ XirdQr5B6oLofRf8xwaU2gxDYXLMB7mV4H ]
+           DOGE [ DTf5nLH1snUNRbwYUSNeHZiubD4xfexhYg ]
+           
