@@ -1,5 +1,5 @@
 # fulus
-Fulus Cryptocurrency [eXperimental]
+Fulus Cryptocurrency [Backed By Tangible Asset @ Gold]
 
 Coin Name: Fulus<br>
 Coin Abbreviation: FLS <br>
