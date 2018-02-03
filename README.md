@@ -1,5 +1,5 @@
 # fulus
-Fulus Cryptocurrency [Backed By Tangible Asset @ Gold]
+Fulus (FLS) Cryptocurrency [Backed By Tangible Asset @ Gold]
 
 Date of Availbility : 3rd May 2017<br>
 Coin Name: Fulus<br>
@@ -24,7 +24,7 @@ Maximum Block Size: 2 MB<br>
 
 Official Website : http://www.fulus.org <br>
 Official Telegram Group : http://t.me/flscoin<br>
-Main Public Pool : http://pool.fulus.org  | no registration but please use port 3032 when mining using CPU/GPU, ASIC use port 3256<br>
+Main Public Pool : http://pool.fulus.org  | no registration but use port 3032 for CPU/GPU, ASIC use port 3256<br>
 Official Blockchain Explorer : http://explorer.fulus.org <br><br>
 Mining Software (CPU Miner) : https://github.com/tpruvot/cpuminer-multi/releases <br>
 Mining Software (GPU Miner - nVidia) : https://github.com/tpruvot/ccminer/releases <br>
