@@ -33,7 +33,7 @@ Mining Software (CGMiner - ASIC / FPGA) : https://github.com/ckolivas/cgminer<br
 Official Android wallet : https://github.com/thecreakers/fulus/tree/master/wallet/android/ <br>
 Official Windows wallet : https://github.com/thecreakers/fulus/tree/master/wallet/windows/<br>
 
-Donation : All donation will be used on Fulus (FLS) development and coin listing <br>
+Donation : All donation will be used on Fulus (FLS) development and coin listing <br><br>
            FULUS [ FqJ5CN9zF93r4rttxcantgtaFWWR8PLST8 ] <br>
            BTC [ 1FFPahYGPHNPZWZmJTiK78LKcikfCeBzdu ] <br>
            ETH [ 0xDcFd48001F59c5481eF517c09DC77A17e6e42Cc7 ] <br>
